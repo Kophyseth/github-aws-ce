@@ -1,2 +1,2 @@
 # github-aws-ce
-my aws gits
+# A repo for Jomacs AWS training
